@@ -3,12 +3,12 @@ package unit_01;
 
 
 //public class void{   //Can't make class name as a keyword
-//	System.out.println("it cant work");
+//	System.out.println("it can't work");
 //
 //
 //}
 
-public class P1_task2_lab {
+public class P2_task_01_keywords {
 	
 	
 	static int a=10;   //Static function only give access to  global static variables.
