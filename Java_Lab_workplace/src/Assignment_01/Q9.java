@@ -18,10 +18,10 @@ public class Q9 {
 
 	// You can make a class Public or leave it default or make it abstract or final but you cannot make a class private or protected...
 
-	private class rom //Illegal modifier for the class rom; only public, abstract & final are permitted
-	{
+//	private class rom //Illegal modifier for the class rom; only public, abstract & final are permitted
+//	{
 		//
-	}
+//	}
 
 	//But you can make variables -> public, private, protected or default its up to you according to your need...
 
