@@ -8,7 +8,7 @@ public class Q10 {
 		City arr[]=new City[4];
 		
 		System.out.println("Question 10");
-		System.out.println("vansh agarwal_F_20011491");
+		System.out.println("MayankMishra_G_20011594");
 		System.out.println("\t");
 		
 		Scanner obj= new Scanner(System.in);

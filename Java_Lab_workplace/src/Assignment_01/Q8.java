@@ -7,7 +7,7 @@ public class Q8 {
 		public static void main(String[] agrs) {
 			
 			System.out.println("Question 08");
-			System.out.println("vansh agarwal_F_20011491");
+			System.out.println("MayankMishra_G_20011594");
 			System.out.println("\t");
 			
 			Scanner in=new Scanner(System.in);

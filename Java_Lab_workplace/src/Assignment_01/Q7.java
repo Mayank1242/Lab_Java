@@ -5,7 +5,7 @@ public class Q7 {
 		public static void main(String[] agrs) {
 			int j=0;
 			System.out.println("Question 07");
-			System.out.println("vansh _F_20011491");
+			System.out.println("MayankMishra_G_20011594");
 			System.out.println("\t");
 			
 			Employe obj=new Employe();

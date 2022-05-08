@@ -28,7 +28,7 @@ package Assignment_01;
 		Scanner in =new Scanner(System.in);
 		
 		System.out.println("Question 03");
-		System.out.println("vansh_F_20011491");
+		System.out.println("MayankMishra_G_20011594");
 		System.out.println("\t");
 		System.out.println("Enter the number to be checked");
 		int n=in.nextInt();

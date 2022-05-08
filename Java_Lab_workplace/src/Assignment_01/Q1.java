@@ -4,7 +4,7 @@ public class Q1  {
 
 	public static void main(String[] args) {
 		System.out.println("Question 01");
-		System.out.println("vansh_F_20011491");
+		;;
 		Student obj = new Student("Rahul", 14, 'A', 88);
 		Student obj1 = new Student("Sumit", 14, 'A', 78);
 		Student obj2 = new Student("YAsh", 12, 'A', 98);

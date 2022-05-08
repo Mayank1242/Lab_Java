@@ -6,7 +6,7 @@ public class Q5 {
 	public static void main(String[] args) {
 		
 		System.out.println("Question 05");
-		System.out.println("vansh agarwal_F_20011491");
+		System.out.println("MayankMishra_G_20011594");
 		System.out.println("\t");
 		
 		Employee arr[] = new Employee[8];
