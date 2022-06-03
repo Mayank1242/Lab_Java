@@ -19,7 +19,8 @@ public class P17_DisplayGraphics_GUI  extends Canvas{
     
 	public void paint(Graphics grap) {
 	grap.drawOval(25, 140, 40, 70);	
-	setForeground(Color.gray);
+	grap.drawLine(FRAMEBITS, ERROR, ALLBITS, ABORT);
+	setForeground(Color.BLUE);
 	grap.fillOval(140,140,40,60);
 	
 	grap.drawArc(10,20,140,150,90,60);
