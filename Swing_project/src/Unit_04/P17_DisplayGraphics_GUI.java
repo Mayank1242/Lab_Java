@@ -24,7 +24,7 @@ public class P17_DisplayGraphics_GUI  extends Canvas{
 	grap.fillOval(140,140,40,60);
 	
 	grap.drawArc(10,20,140,150,90,60);
-	
+	grap.drawRect(150,40,140,60);
 	}
 	
 }
